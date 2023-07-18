@@ -18,14 +18,19 @@
     programs, feel free to visit my repositories, I tried to organize them as
     intuitively as possible. Don't forget to also take a look at my **GitHub
     Project Organizations** ([authored](https://github.com/rm-dev-labs)) and 
-    (taught). **Have a good trip, my GitHub is indeed an immersion!**_
+    ([taught](https://github.com/rm-learning)). **Have a good trip, my GitHub
+    is indeed an immersion!**_
 </div>
 
-<img height="5px" width="70%" alt="animated-line-image"
+<img height="5px" width="75%" alt="animated-line-image"
    src="https://www.animatedimages.org/data/media/562/animated-line-image-0031.gif"/>
 
-<h3><img width="20" alt="redbug hunter" src="https://i.imgur.com/a9BlfZu.png"/>
+<br>
+
+<h3><img width="20" alt="star" src="https://i.imgur.com/8XzXlZ3.png"/>
    ≈ Technologies I'm Currently Learning</h3>
+
+<br>
 
 <div>
    <a href="https://roadmap.sh"><img align="left" alt="roadmap.sh"
@@ -45,8 +50,34 @@
 
 <br>
 
-<h3><img width="20" alt="mail" src="https://i.imgur.com/0dmUIFO.png"/>
+<h3><img width="20" alt="star" src="https://i.imgur.com/8XzXlZ3.png"/>
+   ≈ GitHub Stats</h3>
+
+<br>
+
+<div align="center">
+   <p>
+      These are the usage activities of my GitHub. While they demonstrate how I
+      have been using the platform and the languages in which I perform my
+      programs, these data do not fully reflect my skills or commitment to
+      these projects. There are several things that influence the way I code,
+      including: time availability, college commitments, agile methodology type
+      , among others. I plan to release a portfolio very soon that will
+      professionally showcase my skills and the way I work with different
+      technologies, so please do not interpret these data literally, as there
+      is much to be detailed behind the scenes.
+   </p>
+
+   | <img width="300" src="https://streak-stats.demolab.com?user=raickmiranda&theme=tokyonight-duo&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/> | <img width="415" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raickmiranda&theme=tokyonight"/> |
+   | :-: | :-: |
+
+</div>
+<br>
+
+<h3><img width="20" alt="star" src="https://i.imgur.com/8XzXlZ3.png"/>
    ≈ Connect With Me</h3>
+
+<br>
 
 <div align="center">
    <p>
@@ -55,7 +86,7 @@
       choice. My profiles are public, so feel free to work on our networking!
       For professional contact, give preference to LinkedIn or send an e-mail.
    </p>
-   
+
    <a href="https://discord.gg/yyxK2nNH7u" target="_blank"><img width="40"
       height="40" target="_blank" alt="Discord Logo"
       src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg">
