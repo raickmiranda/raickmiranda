@@ -5,7 +5,7 @@
 
 <div>
    <img align="right" height="200" width="200" alt="picture of myself"
-        src="https://i.imgur.com/TwfLHSm.png">
+      src="https://i.imgur.com/TwfLHSm.png">
 
    > _To start off... my friends usually call me Juunaz, but in reality my name
     is Raick Miranda (he/him), brazilian, living my 22nd year of life. I've
@@ -24,11 +24,13 @@
 <img height="5px" width="70%" alt="animated-line-image"
    src="https://www.animatedimages.org/data/media/562/animated-line-image-0031.gif"/>
 
-<h3><img width="20" alt="red bug hunter" src="https://i.imgur.com/a9BlfZu.png"/>
-   Technologies I'm Currently Learning</h3>
+<h3><img width="20" alt="redbug hunter" src="https://i.imgur.com/a9BlfZu.png"/>
+   ≈ Technologies I'm Currently Learning</h3>
+
 <div>
    <a href="https://roadmap.sh"><img align="left" alt="roadmap.sh"
-   src="https://api.roadmap.sh/v1-badge/wide/646eb114f4193ae10b46b8c0?variant=dark&roadmaps=backend%2Cfull-stack%2Cpython%2Cjava"/></a>
+      src="https://api.roadmap.sh/v1-badge/wide/646eb114f4193ae10b46b8c0?variant=dark&roadmaps=backend%2Cfull-stack%2Cpython%2Cjava"/>
+   </a>
    
    <p>
       Keep in mind that the systematic study of programming languages is a
@@ -39,5 +41,39 @@
       still be susceptible to errors and will be very grateful if you help me
       find them.
    </p>
+</div>
+
+<br>
+
+<h3><img width="20" alt="mail" src="https://i.imgur.com/0dmUIFO.png"/>
+   ≈ Connect With Me</h3>
+
+<div align="center">
+   <p>
+      If you want to get in touch with me or make a connection on any of my
+      professional networks, you can do so by clicking on the icon of your
+      choice. My profiles are public, so feel free to work on our networking!
+      For professional contact, give preference to LinkedIn or send an e-mail.
+   </p>
    
+   <a href="https://discord.gg/yyxK2nNH7u" target="_blank"><img width="40"
+      height="40" target="_blank" alt="Discord Logo"
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg">
+   </a>
+   <a href="https://instagram.com/raickmiranda" target="_blank"><img width="40"
+      height="40" target="_blank" alt="Instagram Logo"
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg">
+   </a>
+   <a href="https://www.linkedin.com/in/raickmiranda/" target="_blank"><img
+      width="40" height="40" target="_blank" alt="LinkedIn Logo"
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg">
+   </a>
+   <a href="mailto:mirandaraick@outlook.com" target="_blank"><img
+      width="40" height="40" target="_blank" alt="Apple Mail Logo"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png">
+   </a>
+   <a href="https://twitter.com/raickmiranda" target="_blank"><img
+      width="40" height="40" target="_blank" alt="Twitter Logo"
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg">
+   </a>
 </div>
