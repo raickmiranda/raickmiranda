@@ -18,7 +18,7 @@
     programs, feel free to visit my repositories, I tried to organize them as
     intuitively as possible. Don't forget to also take a look at my **GitHub
     Project Organizations** ([authored](https://github.com/rm-dev-labs)) and 
-    ([taught](https://github.com/rm-learning)). **Have a good trip, my GitHub
+    ([tutored](https://github.com/rm-learning)). **Have a good trip, my GitHub
     is indeed an immersion!**_
 </div>
 
