@@ -28,29 +28,6 @@
 <br>
 
 <h3><img width="20" alt="star" src="https://i.imgur.com/8XzXlZ3.png"/>
-   ≈ Technologies I'm Currently Learning</h3>
-
-<br>
-
-<div>
-   <a href="https://roadmap.sh"><img align="left" alt="roadmap.sh"
-      src="https://api.roadmap.sh/v1-badge/wide/646eb114f4193ae10b46b8c0?variant=dark&roadmaps=backend%2Cfull-stack%2Cpython%2Cjava"/>
-   </a>
-   
-   <p>
-      Keep in mind that the systematic study of programming languages is a
-      <b>process</b>, so it takes time and, above all, dedication. If you find
-      errors or not so efficient implementations here, know that <b>you can
-      correct me</b> at any time! I am learning and I know that making mistakes
-      is part of the process. In fact, even if I have studied in depth, I will
-      still be susceptible to errors and will be very grateful if you help me
-      find them.
-   </p>
-</div>
-
-<br>
-
-<h3><img width="20" alt="star" src="https://i.imgur.com/8XzXlZ3.png"/>
    ≈ GitHub Stats</h3>
 
 <br>
