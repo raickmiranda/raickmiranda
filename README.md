@@ -37,9 +37,7 @@
       These are the usage activities of my GitHub. While they demonstrate how I
       have been using the platform and the languages in which I perform my
       programs, these data do not fully reflect my skills or commitment to
-      these projects. There are several things that influence the way I code,
-      including: time availability, college commitments, agile methodology type
-      , among others. I plan to release a portfolio very soon that will
+      these projects. I plan to release a portfolio very soon that will
       professionally showcase my skills and the way I work with different
       technologies, so please do not interpret these data literally, as there
       is much to be detailed behind the scenes.
