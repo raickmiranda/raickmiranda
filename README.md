@@ -1,66 +1,90 @@
-<h2 align="center" font-weight="bold">Olá, Mundo! Nice to see you here
-   <img width="20" alt="duck dancing" src="https://i.imgur.com/GASCtfk.gif"/> !!!
+<h2 align="center" font-weight="bold">
+   <img width="30" alt="duck dancing" src="https://i.imgur.com/GASCtfk.gif"/>
 </h2>
-<h4 align="center">Undergrad Student of Computer Science</h4>
+<h4 align="center">Computer Science undergraduate</h4>
 
 <div>
+
+<a href='https://github.com/rmdevlabs' target='_blank'>
    <img align="right" height="200" width="200" alt="picture of myself"
-      src="https://i.imgur.com/TwfLHSm.png">
+      src="https://imgur.com/zHLyeez.png">
+</a>
 
-   > _To start off... my friends usually call me Juunaz, but in reality my name
-    is Raick Miranda (he/him), brazilian, living my 22nd year of life. I've
-    been passionate about technology since I was a child, I remember my weird
-    fascination with spreadsheets and remote controls (haha), so studying
-    programming is one of the **great achievements** of my life. I'm still
-    evaluating and studying my possibilities for career paths, but my heart
-    already beats faster when I think about Data Science, Game Development and
-    Software Engineering. If you're looking to get to know the way I develop my
-    programs, feel free to visit my repositories, I tried to organize them as
-    intuitively as possible. Don't forget to also take a look at my **GitHub
-    Project Organizations** ([authored](https://github.com/rm-dev-labs)) and 
-    ([tutored](https://github.com/rm-learning)). **Have a good trip, my GitHub
-    is indeed an immersion!**_
+   > _" Ahoy! Thanks for dropping by!_ 
+   >
+   > _I'm Raick, a 22-year-old technology enthusiast from Brazil. Recently,
+   I discovered a newfound passion for Data Science and have been immersing
+   myself in various frameworks, technologies, and tools that are pivotal in
+   this field. Meanwhile, I'm also venturing into the spheres of Software
+   Engineering and Game Development as I approach the end of college. Feel
+   free to explore my projects and notebooks housed under my GitHub
+   organization [rmdevlabs](https://github.com/rmdevlabs)._
+   >
+   > _Cheers! "_
 </div>
-
-<img height="5px" width="75%" alt="animated-line-image"
-   src="https://www.animatedimages.org/data/media/562/animated-line-image-0031.gif"/>
 
 <br>
 
-<h3><img width="20" alt="star" src="https://i.imgur.com/8XzXlZ3.png"/>
-   ≈ GitHub Stats</h3>
+<div align="center">
+   <img width="20" alt="star" src="https://i.imgur.com/8XzXlZ3.png"/>
+   <h3>Tech Stack</h3>
+
+   <br>
+
+<div align="center">
+
+   <p>
+      <a><img width="40" height="40" alt="Python Logo"
+         src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg">
+      </a>
+      <a><img width="40" height="40" alt="Java Logo"
+         src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Java-Dark.svg">
+      </a>
+      <a><img width="40" height="40" alt="Postgre SQL Logo"
+         src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/PostgreSQL-Dark.svg">
+      </a>
+      <a><img width="40" height="40" alt="Microsoft Power BI Logo"
+         src="https://imgur.com/2aSbG1R.png">
+      </a>
+      <a><img width="40" height="40" alt="Microsoft Excel Logo"
+         src="https://imgur.com/cSwJWhG.png">
+      </a>
+      <a><img width="40" height="40" alt="Anaconda Logo"
+         src="https://imgur.com/cj3Vxe9.png">
+      </a>
+      <a><img width="40" height="40" alt="Powershell Logo"
+         src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Powershell-Dark.svg">
+      </a>
+      <a><img width="40" height="40" alt="Pycharm Logo"
+         src="https://imgur.com/3wwW5bw.png">
+      </a>
+      <a><img width="40" height="40" alt="Jupyter Notebook Logo"
+         src="https://imgur.com/GNhYW9I.png">
+      </a>
+      <a><img width="40" height="40" alt="Git Logo"
+         src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Git.svg">
+      </a>
+   </p>
+
+</div>
+
+</div>
+
+<div align="center">
+   <img width="20" alt="star" src="https://i.imgur.com/8XzXlZ3.png"/>
+   <h3>Let's build a connection!</h3>
+</div>
 
 <br>
 
 <div align="center">
    <p>
-      These are the usage activities of my GitHub. While they demonstrate how I
-      have been using the platform and the languages in which I perform my
-      programs, these data do not fully reflect my skills or commitment to
-      these projects. I plan to release a portfolio very soon that will
-      professionally showcase my skills and the way I work with different
-      technologies, so please do not interpret these data literally, as there
-      is much to be detailed behind the scenes.
+      You can reach out to me for professional reasons on LinkedIn or by 
+      email. But if you're up for a chat about tech or anything else, just
+      drop me a direct message on any of the other platforms.
    </p>
 
-   | <img width="300" src="https://streak-stats.demolab.com?user=raickmiranda&theme=tokyonight-duo&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/> | <img width="415" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raickmiranda&theme=tokyonight"/> |
-   | :-: | :-: |
-
-</div>
-<br>
-
-<h3><img width="20" alt="star" src="https://i.imgur.com/8XzXlZ3.png"/>
-   ≈ Connect With Me</h3>
-
-<br>
-
-<div align="center">
-   <p>
-      If you want to get in touch with me or make a connection on any of my
-      professional networks, you can do so by clicking on the icon of your
-      choice. My profiles are public, so feel free to work on our networking!
-      For professional contact, give preference to LinkedIn or send an e-mail.
-   </p>
+   <br>
 
    <a href="https://discord.gg/yyxK2nNH7u" target="_blank"><img width="40"
       height="40" target="_blank" alt="Discord Logo"
@@ -81,5 +105,13 @@
    <a href="https://twitter.com/raickmiranda" target="_blank"><img
       width="40" height="40" target="_blank" alt="Twitter Logo"
       src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg">
+   </a>
+
+   <br>
+
+   <a href='https://www.buymeacoffee.com/raickmiranda' target='_blank'>
+      <img height='36' style='border:0px;height:36px;' border='0'
+         src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3'  
+         alt='Buy Me a Coffee at ko-fi.com' />
    </a>
 </div>
