@@ -10,17 +10,19 @@
       src="https://imgur.com/zHLyeez.png">
 </a>
 
-   > _" Ahoy! Thanks for dropping by!_ 
-   >
-   > _I'm Raick, a 22-year-old technology enthusiast from Brazil. Recently,
+   _Ahoy! Thanks for dropping by!_ 
+   
+   _I'm Raick, a 22-year-old technology enthusiast from Brazil. Recently,
    I discovered a newfound passion for Data Science and have been immersing
    myself in various frameworks, technologies, and tools that are pivotal in
    this field. Meanwhile, I'm also venturing into the spheres of Software
    Engineering and Game Development as I approach the end of college. Feel
    free to explore my projects and notebooks housed under my GitHub
-   organization [rmdevlabs](https://github.com/rmdevlabs)._
-   >
-   > _Cheers! "_
+   organization [rmdevlabs](https://github.com/rmdevlabs). As well as my
+   certificate folder hosted on 
+   [OneDrive](https://1drv.ms/f/s!AmHvhzGn5xO9gbR21XLy9LoYKT-LZg?e=6XBhFe)._
+   
+   _Cheers!!_
 </div>
 
 <br>
